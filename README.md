@@ -1,14 +1,8 @@
-### NOTE: MGCPY HAS RECENTLY BEEN MOVED TO HYPPO. IT CONTAINS THE MOST UP TO DATE IMPLEMENTATION, A MORE USER-FRIENDLY API, AND FASTER TESTS, AMONG OTHER THINGS. MGCPY WILL NO LONGER BE UPDATED. THE NEW REPO CAN BE FOUND HERE: https://github.com/neurodata/hyppo.
-
-The R version is available on CRAN and https://github.com/feekyzz/FAD.
-
-# mgcpy
 
 [![Coverage Status](https://coveralls.io/repos/github/neurodata/mgcpy/badge.svg?branch=master)](https://coveralls.io/github/neurodata/mgcpy?branch=master)
-[![DOI](https://zenodo.org/badge/147731955.svg)](https://zenodo.org/badge/latestdoi/147731955)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-[![Code Climate](https://api.codeclimate.com/v1/badges/51ac28d51f1474bf3567/maintainability)](https://codeclimate.com/github/neurodata/mgcpy/maintainability)
+
 
 `FAD` is a object detection network.
 
